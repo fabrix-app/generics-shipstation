@@ -1,0 +1,1 @@
+export { ShipstationGeneric } from './ShipstationGeneric'
